@@ -77,11 +77,7 @@ To run Storybook locally:
 npm run storybook
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Vignesh](https://github.com/vignesh-1809)
+[Vignesh](https://github.com/vignesh-1809)
 
