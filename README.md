@@ -14,7 +14,7 @@ This repository contains the solution for a frontend development assignment. It 
 
 Explore the UI components and documentation via **Chromatic**:
 
-🔗 [Storybook on Chromatic](https://683193e35f18916f3a1a458f-prxnkyzzpa.chromatic.com/?path=/docs/feedback-alert--docs)
+🔗 [Storybook on Chromatic](https://683193e35f18916f3a1a458f-prxnkyzzpa.chromatic.com/)
 
 ## 📁 Project Structure
 
